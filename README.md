@@ -9,6 +9,11 @@ This module requires argparse and requests which can be installed via the follow
 
 `pip install requests argparse` or `python -m pip install argparse requests`
 
+Then to get the code you can do the following command:
+
+`git clone git@github.com:3Xploitd/pybuster.git`
+
+
 ## Usage
 
 Pybuster can be run by the following python command:
