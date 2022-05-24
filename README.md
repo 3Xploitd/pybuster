@@ -11,7 +11,7 @@ This module requires argparse and requests which can be installed via the follow
 
 Then to get the code you can do the following command:
 
-`git clone git@github.com:3Xploitd/pybuster.git`
+`git clone https://github.com/3Xploitd/pybuster.git`
 
 
 ## Usage
